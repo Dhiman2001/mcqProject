@@ -1,0 +1,6 @@
+MCQ,Options,Correct
+What is the primary goal of supervised learning?,a: To find hidden patterns in data | b: To classify data based on known properties | c: To maximize cumulative reward in an environment | d: To find structures in unlabeled data,b
+Which type of learning does not require labeled training data?,a: Supervised learning | b: Unsupervised learning | c: Semi-supervised learning | d: Reinforcement learning,b
+What is the main focus of reinforcement learning?,a: To find hidden patterns in data | b: To classify data based on known properties | c: To maximize cumulative reward in an environment | d: To find structures in unlabeled data,c
+Which method is used for dimensionality reduction?,a: Principal Component Analysis (PCA) | b: Cluster analysis | c: Semi-supervised learning | d: Reinforcement learning,a
+What is the purpose of unsupervised learning?,a: To classify data based on known properties | b: To maximize cumulative reward in an environment | c: To find structures in unlabeled data | d: To find hidden patterns in data,c
